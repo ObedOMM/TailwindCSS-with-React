@@ -4,7 +4,7 @@ Cette application est un projet d'exemple l'utilisation de Frontity et Tailwindc
 ## Installation
 `npm install --save tailwindcss babel-plugin-macros tailwind.macro@next`
 
-## Config
+## Configuration
 `npx tailwindcss init --full` Ici vous incluez vos nouveles classes ou modifiez une.
 
 ## Babel
@@ -19,7 +19,7 @@ module.exports = {
 };
 ```
 
-## Use in your component
+## L'utiliser au sein de votre composant
 ```
 import React from "react";
 import { connect, styled } from "frontity";
