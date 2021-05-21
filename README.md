@@ -1,14 +1,14 @@
-# Using Tailwindcss with Frontity
-This is a example repo for using Frontity with Tailwindcss + babel-plugin-macros 
+# Utilisation de Tailwindcss et Frontity
+Cette application est un projet d'exemple l'utilisation de Frontity et Tailwindcss + babel-plugin-macros 
 
-## Setup
+## Installation
 `npm install --save tailwindcss babel-plugin-macros tailwind.macro@next`
 
 ## Config
-`npx tailwindcss init --full` Here you include your new classes or modify one.
+`npx tailwindcss init --full` Ici vous incluez vos nouveles classes ou modifiez une.
 
 ## Babel
-Create the file: babel-plugin-macros.config.js with the following content:
+Créer le fichier : babel-plugin-macros.config.js avec le contenu suivant:
 
 ```
 module.exports = {
