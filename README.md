@@ -1,4 +1,4 @@
-# Utilisation de Tailwindcss et Frontity
+# Utilisation de Tailwindcss et Frontity for Wordpress avec styles personnalisés
 Cette application est un projet d'exemple l'utilisation de Frontity et Tailwindcss + babel-plugin-macros 
 
 ## Installation
