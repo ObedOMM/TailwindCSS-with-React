@@ -1,5 +1,7 @@
 # Utilisation de Tailwindcss et Frontity for Wordpress avec styles personnalisés
-Cette application est un projet d'exemple l'utilisation de Frontity et Tailwindcss + babel-plugin-macros 
+Cette application est un projet d'exemple l'utilisation de Frontity et Tailwindcss + babel-plugin-macros
+
+Je dois le personnaliser pour en faire un modèle de demm  rage avec un très beau Design
 
 ## Installation
 `npm install --save tailwindcss babel-plugin-macros tailwind.macro@next`
